@@ -1,0 +1,30 @@
+[33mcommit 8bfab7aa296bf7b6d0c38e6b032a2bf084205027[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: e59e59d 2977cc3
+Author: Anna G <anna.dzgora@gmail.com>
+Date:   Tue Feb 15 10:50:50 2022 +0100
+
+    merged test.txt from feature
+
+[33mcommit 2977cc3f621c6281d629c297ed30007cdefa0354[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Anna G <anna.dzgora@gmail.com>
+Date:   Tue Feb 15 10:48:08 2022 +0100
+
+    changed test.txt content
+
+[33mcommit e59e59d3d600fb456ebb357d919c4d0f1db7ae49[m
+Author: Anna G <anna.dzgora@gmail.com>
+Date:   Tue Feb 15 10:47:03 2022 +0100
+
+    updated test.txt
+
+[33mcommit 475c6199500b11aff4d6aa6479b2e8e7f67f5f84[m
+Author: Anna G <anna.dzgora@gmail.com>
+Date:   Tue Feb 15 10:29:58 2022 +0100
+
+    added new file branch.txt
+
+[33mcommit 5bfa0e611b6d1da754dc94b35ae524378cbeef38[m
+Author: AnnaGora <annak_dz@wp.pl>
+Date:   Mon Feb 14 15:05:49 2022 +0100
+
+    added test.txt file

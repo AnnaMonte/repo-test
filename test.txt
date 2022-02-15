@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-This is another commit!
-=======
 This is again a commit!
->>>>>>> feature
 
 And here we go with commit #2!
+GGGGGG
